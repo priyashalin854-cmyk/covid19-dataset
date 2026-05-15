@@ -149,4 +149,3 @@ The project is beginner-friendly and useful for learning practical data analysis
 
 Priya Shalin
 
-GitHub: Add your GitHub profile link here
